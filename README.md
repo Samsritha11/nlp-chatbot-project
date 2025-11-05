@@ -9,7 +9,8 @@ A Flask-based NLP chatbot powered by Hugging Face Transformers and Sentence Tran
 - Ready for fine-tuning and deployment on Render, AWS, or EC2  
 
 ## 🛠️ Run Locally
-```bash
+bash
 pip install -r requirements.txt
 python train_model.py
 python app.py
+http://127.0.0.1:5000/
